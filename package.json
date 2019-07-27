@@ -1,0 +1,32 @@
+{
+  "name": "moto-taxi-control",
+  "version": "0.0.1",
+  "description": "REST API para el control de los viajes del moto taxi de la Distribuidora de Materiales Santa Fé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intelguasoft/moto-taxi-control.git"
+  },
+  "keywords": [
+    "control",
+    "taxi",
+    "tuctuc",
+    "torito",
+    "bajaj",
+    "pmt",
+    "Santa",
+    "Fé",
+    "Distribuidora",
+    "Dorian",
+    "Despacho"
+  ],
+  "author": "Henry Díaz <hnrdiaz@gmail.com> (http://intelguasoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intelguasoft/moto-taxi-control/issues"
+  },
+  "homepage": "https://github.com/intelguasoft/moto-taxi-control#readme"
+}

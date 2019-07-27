@@ -1,0 +1,8 @@
+.git
+npm-debug.log
+.npmrc
+node_modules
+config.gypi
+.vscode
+package-lock.json
+dist
